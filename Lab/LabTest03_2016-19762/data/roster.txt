@@ -1,0 +1,9 @@
+Aguero,Man City,62,12.1
+Aubameyang,Arsenal,59,11.1
+Kane,Spurs,55,10.8
+Firmino,Liverpool,52,9.5
+Jesus,Man City,30,9.5
+Lacazette,Arsenal,20,9.3
+Vardy,Leicester,74,9.3
+Lukaku,Man Utd,0,8.5
+Rashford,Man Udt,56,8.4
