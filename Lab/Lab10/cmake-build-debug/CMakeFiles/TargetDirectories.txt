@@ -1,0 +1,7 @@
+/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab10/cmake-build-debug/CMakeFiles/pocketmon_game.dir
+/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab10/cmake-build-debug/CMakeFiles/main.dir
+/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab10/cmake-build-debug/CMakeFiles/player.dir
+/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab10/cmake-build-debug/CMakeFiles/monster.dir
+/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab10/cmake-build-debug/CMakeFiles/Lab10.dir

@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Lab8"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem6">
+				<Option output="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug/problem6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem6"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem6/fast">
+				<Option output="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug/problem6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem6/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem4">
+				<Option output="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug/problem4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem4/fast">
+				<Option output="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug/problem4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem5">
+				<Option output="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug/problem5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem5"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem5/fast">
+				<Option output="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug/problem5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem5/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem3">
+				<Option output="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug/problem3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem3/fast">
+				<Option output="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug/problem3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem2">
+				<Option output="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug/problem2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem2/fast">
+				<Option output="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug/problem2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem1">
+				<Option output="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug/problem1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem1/fast">
+				<Option output="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug/problem1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab8">
+				<Option output="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug/Lab8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab8"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab8/fast">
+				<Option output="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug/Lab8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab8/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/silverman/Documents/SNU/19-2\ 컴퓨터프로그래밍\ 이영기/Lab/Lab8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/main.cpp">
+			<Option target="Lab8"/>
+		</Unit>
+		<Unit filename="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/problem1.cpp">
+			<Option target="problem1"/>
+		</Unit>
+		<Unit filename="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/problem2.cpp">
+			<Option target="problem2"/>
+		</Unit>
+		<Unit filename="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/problem3.cpp">
+			<Option target="problem3"/>
+		</Unit>
+		<Unit filename="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/problem4.cpp">
+			<Option target="problem4"/>
+		</Unit>
+		<Unit filename="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/problem5.cpp">
+			<Option target="problem5"/>
+		</Unit>
+		<Unit filename="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/problem6.cpp">
+			<Option target="problem6"/>
+		</Unit>
+		<Unit filename="/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab8/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
