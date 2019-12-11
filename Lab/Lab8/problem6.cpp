@@ -2,11 +2,13 @@
 
 using namespace std;
 
-int is_prime_ans[10000];
+int is_prime_ans[100001];
 
 bool is_prime(int n) {
     if(n == 1 || is_prime_ans[n] == 0)
         return false;
+    if(is_prime_ans[n] == 1)
+        return true;
 
     for(int i = 2; i < n; i++)
         if(n % i == 0) {
@@ -24,10 +26,8 @@ void print_primes_in(int a, int b) {
 }
 
 int main() {
-    fill_n(is_prime_ans, 10000, -1);
-    int n, a, b;
-    cin >> n;
-    cout << is_prime(n) << endl;
+    fill_n(is_prime_ans, 100001, -1);
+    int a, b;
     cin >> a >> b;
     print_primes_in(a, b);
 }
