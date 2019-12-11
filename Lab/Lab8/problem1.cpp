@@ -1,10 +1,11 @@
-//
-// Created by 박은만 on 10/12/2019.
-//
-
 #include <iostream>
+#include <string>
+
+using namespace std;
 
 int main() {
-    std::cout << "Hello, Worlddddd!" << std::endl;
-    return 0;
+    string name;
+    cin >> name;
+    if(name == "Youngki") cout << "Hello, Professor!" << std::endl;
+    else cout << "Hello, " << name << "!" <<std::endl;
 }
