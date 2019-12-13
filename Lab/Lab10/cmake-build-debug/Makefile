@@ -111,6 +111,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named player
+
+# Build rule for target.
+player: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 player
+.PHONY : player
+
+# fast build rule for target.
+player/fast:
+	$(MAKE) -f CMakeFiles/player.dir/build.make CMakeFiles/player.dir/build
+.PHONY : player/fast
+
+#=============================================================================
 # Target rules for targets named pocketmon_game
 
 # Build rule for target.
@@ -135,19 +148,6 @@ main: cmake_check_build_system
 main/fast:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
-
-#=============================================================================
-# Target rules for targets named player
-
-# Build rule for target.
-player: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 player
-.PHONY : player
-
-# fast build rule for target.
-player/fast:
-	$(MAKE) -f CMakeFiles/player.dir/build.make CMakeFiles/player.dir/build
-.PHONY : player/fast
 
 #=============================================================================
 # Target rules for targets named monster
@@ -293,10 +293,10 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... pocketmon_game"
-	@echo "... main"
 	@echo "... edit_cache"
 	@echo "... player"
+	@echo "... pocketmon_game"
+	@echo "... main"
 	@echo "... monster"
 	@echo "... Lab10"
 	@echo "... main.o"

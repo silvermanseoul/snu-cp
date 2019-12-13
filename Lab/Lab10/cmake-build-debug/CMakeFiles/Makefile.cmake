@@ -52,9 +52,9 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/player.dir/DependInfo.cmake"
   "CMakeFiles/pocketmon_game.dir/DependInfo.cmake"
   "CMakeFiles/main.dir/DependInfo.cmake"
-  "CMakeFiles/player.dir/DependInfo.cmake"
   "CMakeFiles/monster.dir/DependInfo.cmake"
   "CMakeFiles/Lab10.dir/DependInfo.cmake"
   )

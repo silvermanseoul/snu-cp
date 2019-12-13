@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab10/monster.cpp
+monster.h
+/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab10/monster.h
+
+/Users/silverman/Documents/SNU/19-2 컴퓨터프로그래밍 이영기/Lab/Lab10/monster.h
+iostream
+-
+
